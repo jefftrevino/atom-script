@@ -322,14 +322,6 @@
   "engines": {
     "atom": ">=0.174.0"
   },
-  "activationCommands": {
-    "atom-text-editor": [
-      "script:run",
-      "script:run-by-line-number",
-      "script:run-options",
-      "script:run-with-profile"
-    ]
-  },
   "dependencies": {
     "ansi-to-html": "^0.4.2",
     "atom-message-panel": "1.2.7",
