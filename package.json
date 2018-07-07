@@ -1,5 +1,5 @@
 {
-  "name": "script-consumable",
+  "name": "ncoda-script-consumable",
   "main": "./lib/script",
   "version": "3.18.1",
   "private": false,
@@ -279,7 +279,7 @@
       "email": "bruno.duran.rey@gmail.com"
     }
   ],
-  "repository": "https://github.com/rgbkrk/atom-script",
+  "repository": "https://github.com/jefftrevino/atom-script",
   "keywords": [
     "script",
     "runner",
