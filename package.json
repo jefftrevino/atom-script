@@ -3,7 +3,7 @@
   "main": "./lib/script",
   "version": "3.18.2",
   "private": false,
-  "description": "Run code in Atom!",
+  "description": "Run code in Atom...and consume code runability as a service in other packages!",
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
   "contributors": [
     {
